@@ -11,7 +11,7 @@ length = input('The length of the password(s) needed ? -> ')
 length = int(length)
 
 print('\nGenerating...')
-print('\nHere are your passwords : ')
+print('\nHere are your password(s) : ')
 
 for i in range(number):
   password = ''
