@@ -10,4 +10,5 @@ Utility programs written in Python.
 - Interactive Dictionary
 - Webmaps with Folium
 - Webcam motion detector with OpenCV
+- Webscraping with Python
 - More coming soon !
