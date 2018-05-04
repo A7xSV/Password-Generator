@@ -7,7 +7,6 @@ Utility programs written in Python.
 | [Password Generator](https://github.com/A7xSV/Python-Projects/tree/master/Password%20Generator) | Generate random Passwords |
 
 ## Under Development 🔨
-- Interactive Dictionary
 - Webmaps with Folium
 - Webcam motion detector with OpenCV
 - Webscraping with Python
